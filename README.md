@@ -1,6 +1,6 @@
 # Go Studies!
 
-Some of my Go studies. PRs and rewiews are welcome :)
+Some of my Go studies. PRs and reviews are welcome :)
 
 ## The Go Programming Language book
 
