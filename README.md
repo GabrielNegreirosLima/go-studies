@@ -8,7 +8,7 @@ In the `go-book/` there are the exercises from the book of [The Go Programming L
 
 ### TODO:
 
- __Chapter 1: __
+ __Chapter 1:__
  - [ ] Section 1.2: Exercise 1.3
  - [ ] Section 1.3: All
  - [ ] Section 1.4: All
