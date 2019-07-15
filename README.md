@@ -5,6 +5,7 @@ Some of my Go studies. PRs and reviews are welcome :)
 ## The Go Programming Language book
 
 In the `go-book/` there are the exercises from the book of [The Go Programming Language](https://g.co/kgs/PF2oqN).
+In the `go-book-examples` I've downloaded the book examples from [gopl.io](gopl.io)
 
 ### TODO:
 
